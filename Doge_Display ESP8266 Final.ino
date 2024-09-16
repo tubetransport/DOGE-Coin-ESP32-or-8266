@@ -13,7 +13,7 @@
 
 
 #include <WiFiClientSecureBearSSL.h> //ssh Client 
-#include "certs.h" //ssh certificte-  needed for HTTPS will ignore later
+
 
 //Define SD1306 Screen Parameters
 #define SCREEN_WIDTH 128            
